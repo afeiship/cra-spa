@@ -8,3 +8,7 @@ $color-map: (
   light: #f3f3f3,
   light-active: #e1e4e6
 );
+
+@function color($inKey) {
+  @return map-get($map: $color-map, $key: $inKey);
+}
