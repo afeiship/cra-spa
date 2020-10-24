@@ -23,7 +23,7 @@ module.exports = override(
     new webpack.ProvidePlugin({
       React: 'react',
       ReactDOM: 'react-dom',
-      nx: 'next-js-core2',
+      nx: '@feizheng/next-js-core2',
       mixin: 'mixin-decorator'
     })
   ),
