@@ -1,0 +1,7 @@
+# npmrc
+> Useful npm setttings.
+
+```json
+sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+package-lock=false
+```
