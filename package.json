@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-es6",
+  "name": "webpack-cra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
