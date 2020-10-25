@@ -24,7 +24,7 @@ module.exports = override(
       React: 'react',
       ReactDOM: 'react-dom',
       nx: '@feizheng/next-js-core2',
-      mixin: 'mixin-decorator'
+      mixin: '@feizheng/mixin-decorator'
     })
   ),
   addWebpackPlugin(
