@@ -62,7 +62,7 @@
     "standard": "^14.3.4"
   },
   "scripts": {
-    "start": "craco start -c craco.config.js",
+    "start": "REACT_APP_NO_CLEAR_CONSOLE=true craco start -c craco.config.js",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
