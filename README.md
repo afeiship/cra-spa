@@ -1,2 +1,5 @@
-# webpack-cra
-> Webpack for create-react-app project.
+# cra-spa
+> Cra spa template.
+
+## get-started
+- http://localhost:3400/modules/login
